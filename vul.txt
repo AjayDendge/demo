@@ -1,0 +1,29 @@
+38123---Moodle Badges/External.Php Cross-Site Scripting Vulnerability
+
+dashboard-metrics-scraper
+dashboard-metrics-scraper
+dashboard-metrics-scraper
+
+
+
+Birthday Attacks Against TLS Ciphers With 64bit Block Size Vulnerability (Sweet32)
+
+gatekeeper-controller-58d7f44b9-z79s4        ------10.1.8.113
+gatekeeper-controller-58d7f44b9-kpjwb        ------10.1.8.126   
+
+
+prod-aks-api-dmz-ue
+
+prod-aks-api-dmz-uw
+
+
+
+10.0.8.20   N
+10.0.8.128   N
+10.1.8.113  
+10.1.8.126
+10.1.24.69
+10.1.24.126
+
+
+
